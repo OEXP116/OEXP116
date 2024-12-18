@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m [Your Name]  
+# 👋 Hi there! I’m Oscar Espinoza 
 
 Welcome to my GitHub! I’m a developer passionate about building efficient, user-friendly applications and solving challenging problems through code.  
 
